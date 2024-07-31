@@ -27,8 +27,6 @@ setup(
     install_requires=[],  # List of required dependencies
     extras_require = {'all': install_requires,
                       'colab': colab_required},
-    url='https://github.com/federicosiciliano/easy_data.git',  # Replace with the URL of your GitHub repository
-    author='Federico Siciliano',
-    author_email='siciliano@diag.uniroma1.it',
+    url='https://github.com/anonymoususer322/easy_data.git',  # Replace with the URL of your GitHub repository
     keywords=['MachineLearning', 'Data']  # Keywords related to your package
 )
